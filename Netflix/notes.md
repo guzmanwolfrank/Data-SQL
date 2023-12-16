@@ -1,10 +1,7 @@
 Notes 
 
-#notes 
+Queries to Run 
 
-more notes
-
-Here are seven unique and interesting queries you can run on your Netflix movie data and visualize with seaborn that would be great for your Github project:
 
 **1. Top Trending Genres by Decade:**
 
